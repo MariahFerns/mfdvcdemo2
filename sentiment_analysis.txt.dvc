@@ -1,0 +1,5 @@
+outs:
+- md5: a30229d55a24fc1456cac4d8c8ff887f
+  size: 163
+  hash: md5
+  path: sentiment_analysis.txt
